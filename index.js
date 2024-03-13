@@ -542,6 +542,7 @@ document.querySelectorAll('.box').forEach(ee => {
  // promotion when reach end with pawn
  // log every move you take
 // Check for checkmate after each move
+// Ability to castle
 
 
 
